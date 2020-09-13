@@ -7,22 +7,6 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Jonnathan-SantaCruz/hello-mvc.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Jonnathan-SantaCruz/hello-mvc.git"
-  },
-  "homepage": "https://github.com/Jonnathan-SantaCruz/hello-mvc.git",
-  "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.9.24",
-    "pug": "^3.0.0"
-  },
   "devDependencies": {
     "nodemon": "^2.0.4"
   }
