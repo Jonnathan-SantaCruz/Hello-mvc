@@ -1,0 +1,13 @@
+{
+  "name": "hello-mvc",
+  "version": "1.0.0",
+  "description": "Una aplicación MVC usando el motor de vistas Pug.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
