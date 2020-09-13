@@ -4,7 +4,6 @@ const mongoose = require('mongoose');
 // puerto y base de datos
 const port = process.env.PORT        || 3000;
 const db   = process.env.MONGODB_URI || 'mongodb://localhost/hellodb';
-const uri = " mongodb + srv : // hello-mvc : hello-mvc @ cluster0.pcswb.mongodb.net / hello-mvc ? retryWrites = true & w = mayoría ";
 
 const app = express();
 
